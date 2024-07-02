@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Gradle](https://img.shields.io/badge/-Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
